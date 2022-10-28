@@ -1,4 +1,4 @@
-### Hi there👋, I'm Muchiri Mwangi
+### Hi there👋, I'm Muchiri 
 
 - I do react native app development and a bit of python programming.
 - Currently learning Go language and python for AI.
